@@ -1,0 +1,12 @@
+re*
+*.class
+bin
+th*
+
+.class*
+.project
+.setting*
+
+*.xls
+
+*.jar
